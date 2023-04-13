@@ -69,7 +69,7 @@
             ]
         }
     ]}
-
+    
 - `userAnswers`: the list answers of user for all question in QUIZ
 - `choose`: list of options choose by user, if the question tye is `CHOOSE_ONE`, it should be one element in list. And `MULTI_CHOOSE` can have a lot of elements
 - `ref`: for stored the result of quiz for user
